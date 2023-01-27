@@ -1,6 +1,6 @@
 # APple emUlator 1 (APU1): Apple 1 Emulator 
 
-A simplified implemetation of the Apple 1 computer, done in a way that is discrete and logical. 
+A simplified implemetation of the Apple 1 computer, done in a way that is discrete and logical. Named after a favorite (and relatable) character on The Simpsons. 
 
 ## Introduction
 This project was an excercise for me to get re-acquainted with C-Programming Language and also get acquainted with low level machine code and assembly code. I had been using computers for over two decades and never really understood how everyting really worked, digging deep into Apple 1 and MOS 6502 processor, gave me glimpse of the modern beheamoth processors. I enjoyed putting together this project and it is far from done. Here is  a list of TODOs that I would like to get to if time permits.
